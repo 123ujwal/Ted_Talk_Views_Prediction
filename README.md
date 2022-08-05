@@ -1,4 +1,4 @@
-# Ted_talks_views_prediction
+# Ted_Talks_Views_Prediction
 
 This project is a part of the AlmaBetter Pro Program
 
