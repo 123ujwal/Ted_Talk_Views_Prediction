@@ -45,7 +45,6 @@ native_lang: Language the talk was given in
 
 available_lang: All available languages (lang_code) for a talk
 
-
 comments: Count of comments
 
 duration: Duration in seconds
